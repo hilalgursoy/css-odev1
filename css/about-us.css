@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #ecdbba;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header, h3{
+    margin-top: 40px;
+    color: #2c0a0a ;
+}
+
+a{
+    text-decoration: none;
+    color: #171f1f;
+}
+
+.nav-bar ul li{
+    color: #ecdbba;
+    display: inline;
+    margin-right: 20px;
+    list-style-type: none;
+    background-color: #C0A080;
+    padding: 5px 10px;
+    border-radius: 50px;
+}
+
+
+
+
